@@ -5,3 +5,8 @@ footer {
   height: 100px;
   color: white;
 }
+
+.btn {
+  margin-right: 15px;
+  border-radius: 3px;
+}
