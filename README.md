@@ -8,6 +8,6 @@ Este un proyecto de práctica de javascript simple, que incluye un cronómetro f
 - CSS: Para dar estilos básicos.
 - JavaScript: Para la lógica y funcionalidad del cronómetro.
 
-## Ver respositorio [aqui] ()
+## Ver respositorio [aqui] (https://github.com/Nanci-Guzman/practica-Cronometro)
 
 ## 👩‍💻 Autor: Guzman, Nanci
